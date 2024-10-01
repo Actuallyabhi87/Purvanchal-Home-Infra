@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React from "react";
+
 import {
   FaPhoneAlt,
   FaEnvelope,
@@ -88,7 +89,7 @@ const FooterSection = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="#" className="hover:underline">
+                  <Link href="/Privacy" className="hover:underline">
                     Privacy Policy
                   </Link>
                 </li>
