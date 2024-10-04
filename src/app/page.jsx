@@ -20,6 +20,10 @@ export default function Home() {
           name="description"
           content="Explore real estate projects with Purvanchal Home Infra, offering versatile plot sizes, easy EMI options, and more."
         />
+        <meta
+          name="facebook-domain-verification"
+          content="v1ncj9iu3jjidaax8tn14ytjmb88eg"
+        />
       </Head>
 
       {/* Meta Pixel Code */}
